@@ -18,3 +18,4 @@ pep8-naming==0.7.0
 pre-commit
 flask_testing
 mock
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
