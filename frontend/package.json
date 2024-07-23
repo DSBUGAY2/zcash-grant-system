@@ -125,7 +125,7 @@
     "markdown-loader": "^4.0.0",
     "mini-css-extract-plugin": "^0.8.0",
     "moment": "^2.22.2",
-    "node-sass": "^7.0.2",
+    "node-sass": "^9.0.0",
     "nodemon": "^1.18.4",
     "prettier": "^1.13.4",
     "prettier-package-json": "^1.6.0",
