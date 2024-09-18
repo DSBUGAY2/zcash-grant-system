@@ -95,7 +95,7 @@
     "cors": "^2.8.4",
     "css-loader": "^5.0.0",
     "dotenv": "^6.0.0",
-    "express": "^4.16.3",
+    "express": "^4.20.0",
     "express-manifest-helpers": "^0.5.0",
     "express-sslify": "^1.2.0",
     "express-winston": "^3.0.0",
