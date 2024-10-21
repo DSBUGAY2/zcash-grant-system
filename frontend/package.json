@@ -107,7 +107,7 @@
     "global": "4.3.2",
     "history": "4.7.2",
     "html-loader": "^1.0.0",
-    "http-proxy-middleware": "^0.20.0",
+    "http-proxy-middleware": "^2.0.7",
     "https-proxy": "0.0.2",
     "husky": "^1.0.0-rc.8",
     "i18next": "^12.0.0",
