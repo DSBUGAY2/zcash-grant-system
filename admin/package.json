@@ -64,7 +64,7 @@
     "clean-webpack-plugin": "^0.1.19",
     "core-js": "^2.5.7",
     "cross-env": "^5.2.0",
-    "css-loader": "^1.0.0",
+    "css-loader": "^5.0.0",
     "dotenv": "^6.0.0",
     "ethereum-blockies-base64": "1.0.2",
     "ethereumjs-util": "5.2.0",
